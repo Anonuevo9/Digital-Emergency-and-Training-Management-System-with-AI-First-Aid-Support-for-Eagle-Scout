@@ -1,0 +1,2 @@
+# Digital-Emergency-and-Training-Management-System-with-AI-First-Aid-Support-for-Eagle-Scout
+Digital Emergency and Training Management System is a smart platform designed for Eagle Scout Laguna to improve emergency response, rescue coordination, and training management. It features AI-powered first aid and rescue support, real-time monitoring, digital records, and efficient communication for faster and more organized operations.
